@@ -1,0 +1,52 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+  
+  }
+  header{
+      background-color: rgb(14, 170, 53);
+    }
+  .options{
+    font-size: 8px;
+  }
+  
+  .catagoriesa{
+    font-size: 18px;
+  }
+  .catagories{
+    font-size: 12px;
+    
+  }
+  
+  .text{
+    font-size: 12px;
+  }
+  
+  .price{
+    font-size: 9px;
+  }
+  .size{
+    font-size: 9px;
+  }
+  .style{
+    width:120px; 
+    height:10%;
+  }
+  .fonts{
+    font-size: 8px;
+  }
+  .hfonts{
+    font-size: 10px;
+  }
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1887px !important;
+    }
+  }
+  
+  
+  .caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+  }
