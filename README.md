@@ -1,1 +1,0 @@
-# BachatMart templet
